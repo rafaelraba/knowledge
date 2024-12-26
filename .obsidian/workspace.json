@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "9a3417d40b3c4ee6",
+        "id": "a035dac47eceae66",
         "type": "tabs",
         "children": [
           {
-            "id": "d08b03a9a066e87b",
+            "id": "639fe5ce858b2db5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RAG"
-            }
-          },
-          {
-            "id": "5cd14dac1ed42c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notación BigO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Notación BigO"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,13 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd14dac1ed42c0d",
+  "active": "639fe5ce858b2db5",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Notación BigO.md",
+    "Algoritmo.md",
+    "RAG.md",
     "attachments/Pasted image 20241225191150.png",
     "attachments",
     "Pasted image 20241225191026.png",
-    "Notación BigO.md",
-    "RAG.md",
     "Algoritmos",
     "Inteligencia Artificial"
   ]

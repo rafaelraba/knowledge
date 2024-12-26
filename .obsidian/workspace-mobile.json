@@ -133,9 +133,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "96aa046edca1bf3f",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,6 +160,10 @@
   },
   "active": "38b09c105be3bdf2",
   "lastOpenFiles": [
+    "Notación BigO.md",
+    "RAG.md",
+    "Untitled.md",
+    "Algoritmo.md",
     "Inteligencia Artificial.md"
   ]
 }
