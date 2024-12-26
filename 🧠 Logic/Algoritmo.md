@@ -1,0 +1,1 @@
+Secuencia de pasos necesaria para resolver un problema

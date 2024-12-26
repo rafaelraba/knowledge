@@ -11,10 +11,14 @@
             "id": "639fe5ce858b2db5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "🧠 Logic/Notación BigO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notación BigO"
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inteligencia Artificial.md",
+                "file": "🧠 Logic/Notación BigO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inteligencia Artificial"
+              "title": "Backlinks for Notación BigO"
             }
           },
           {
@@ -108,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inteligencia Artificial.md",
+                "file": "Notación BigO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Inteligencia Artificial"
+              "title": "Outgoing links from Notación BigO"
             }
           },
           {
@@ -169,13 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "639fe5ce858b2db5",
+  "active": "1037335da0ff1d05",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Notación BigO.md",
-    "Algoritmo.md",
-    "RAG.md",
+    "🧠 Logic/Retrieval Augmented Generation.md",
+    "🧠 Logic/Algoritmo.md",
+    "🧠 Logic/Notación BigO.md",
+    "🧠 Logic",
     "attachments/Pasted image 20241225191150.png",
+    "Untitled.md",
     "attachments",
     "Pasted image 20241225191026.png",
     "Algoritmos",

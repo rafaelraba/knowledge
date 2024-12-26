@@ -11,14 +11,10 @@
             "id": "38b09c105be3bdf2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RAG.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "RAG"
+              "title": "New tab"
             }
           }
         ]
@@ -158,12 +154,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38b09c105be3bdf2",
+  "active": "0208c90e5edde89c",
   "lastOpenFiles": [
+    "🧠 Logic/Retrieval Augmented Generation.md",
     "Notación BigO.md",
+    "🧠 Logic/Retrieval-Augmented Generation.md",
+    "🧠 Logic/Notación BigO.md",
+    "🧠 Logic/Algoritmo.md",
+    "🧠 Logic",
+    "🧠",
+    "Algoritmo.md",
     "RAG.md",
     "Untitled.md",
-    "Algoritmo.md",
     "Inteligencia Artificial.md"
   ]
 }
